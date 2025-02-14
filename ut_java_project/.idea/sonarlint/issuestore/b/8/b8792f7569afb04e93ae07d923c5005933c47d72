@@ -1,0 +1,36 @@
+
+l	java:S1278"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+0
+java:S1220""Move this file to a named package.
+o	java:S116"SRename this field "BOMBCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÄÂº8²êÏ¿Í2
+7
+java:S1170"!Make this final field static too.(ÙäÂ¸
+<
+java:S1170"!Make this final field static too.(Ãûõœùÿÿÿÿ
+6
+java:S1170"!Make this final field static too.(·îû'
+7
+java:S1170"!Make this final field static too.(½ÄÂº
+;
+java:S16593"%Declare "randCol" on a separate line.(Æ³Ù
+9
+java:S21192"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(à¡îşÿÿÿÿ
+h
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(€˜‚û
+Q	java:S125_"<This block of commented-out lines of code should be removed.(§ì²á
+m
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¼ Òşüÿÿÿÿ
+M
+java:S1135e"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+>
+java:S1125ˆ"'Remove the unnecessary boolean literal.(ÎÒ¥€
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ê¤şÔüÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(öÛ¯¨ÿÿÿÿÿ
+i	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Â÷¥şÿÿÿÿ
+O
+java:S1854±"8Remove this useless assignment to local variable "game".(áö²ò
+G
+java:S1481±")Remove this unused "game" local variable.(áö²ò8ˆÒÜ¿Í2

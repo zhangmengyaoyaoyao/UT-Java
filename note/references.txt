@@ -1,0 +1,52 @@
+https://books.trinket.io/thinkjava2/
+
+Links to more practice for Java, general programming, other courses, and more
+This list will be added to throughout the semester.
+If you have suggestions to add, please tell me! yirka@utexas.edu
+
+ 
+
+Another free online Java textbook (you might like it more than our first textbook)
+Introduction to Programming Using Java
+http://math.hws.edu/javanotes/Links to an external site. 
+
+Alibaba style guide for Java https://github.com/alibaba/Alibaba-Java-Coding-GuidelinesLinks to an external site. 
+ 
+
+PracticeIt - https://practiceit.cs.washington.edu/Links to an external site. - Java practice problems by the University of Washington
+CodingBat - https://codingbat.com/javaLinks to an external site. - Java and Python practice problems by Stanford
+ 
+
+Past exams from UT Austin - https://www.cs.utexas.edu/~scottm/cs312/testStudyMaterials.htmLinks to an external site. - You can practice whether you know the "theory" on the test.
+ 
+
+CodeChef - https://www.codechef.com/Links to an external site. - Popular website for programming practice problems.
+Topcoder - https://www.topcoder.com/Links to an external site. - Another popular website for practice problems. Some top solvers get job offers.
+ 
+
+Project Euler - https://projecteuler.net/Links to an external site. - Great practice for algorithmic efficiency. Very difficult problems. Lots of math (not complicated math - just very difficult to think of the answer).
+ 
+
+Links to dozens of websites with dozens of courses in all areas of computer science. Many free. - https://stackoverflow.blog/2020/04/27/build-your-technical-skills-at-home-with-online-learning/Links to an external site. 
+Many Universities have their lectures available for free.
+MIT - https://ocw.mit.edu/Links to an external site. - all subject areas.
+MIT Software Construction Java course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/Links to an external site. 
+University of Helsinki Java course - https://java-programming.mooc.fi/part-1Links to an external site.  
+Assignments from a Stanford website that are labeled "nifty" or "cool" for young programmers http://nifty.stanford.edu/Links to an external site. 
+"Data Science" is a popular career that uses computers and programming-thinking, but requires a lot of training different than programming. Many courses available if you search online.
+ 
+
+Other programming languages you might consider learning after Java:
+C - useful for very low-level, close to the hardware work. Useful when efficiency is critical.
+C++ - Very similar to Java.
+Javascript - popular for web development.
+Python - Easy and quick to code in. Useful for scientists because the rules are not very strict. Lots of great machine learning packages available.
+Go - Developed by Google.
+Swift - Developed by Apple.
+ 
+
+Other popular IDEs / editors you might like after DrJava:
+Eclipse
+NetBeans
+IntelliJ
+BlueJ (basic)
